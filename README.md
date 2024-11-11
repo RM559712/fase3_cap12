@@ -36,7 +36,7 @@ O presente projeto tem como objetivo simular um sistema de sensores de umidade, 
 
 Desenho do circuito completo com os sensores utilizados:
 
-![](https://github.com/RM559712/fase3_cap12/tree/main/assets/images/image1.png)  
+![Image1](https://github.com/RM559712/fase3_cap12/blob/main/assets/images/image1.png)  
     
 ### Descrição do papel de cada sensor no sistema
 
@@ -55,11 +55,11 @@ Para a rodagem do programa bastou apertar o botão de start na aba “simulation
 
 Figura 1 - Inicialização do teste
 
-![](https://github.com/RM559712/fase3_cap12/tree/main/assets/images/image2.png)  
+![Image2](https://github.com/RM559712/fase3_cap12/tree/main/assets/images/image2.png)  
 
 Figura 2 - Teste demonstrando o funcionamento correto do sensor HC-SR04 iluminando o LED à esquerda de quem lê, e os resultados de temperatura, umidade, distância e movimento printados no monitor.
 
-![](https://github.com/RM559712/fase3_cap12/tree/main/assets/images/image3.png)  
+![Image3](https://github.com/RM559712/fase3_cap12/tree/main/assets/images/image3.png)  
 
 ## 📁 Estrutura de pastas
 
