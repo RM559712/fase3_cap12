@@ -72,10 +72,6 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
 3. <b>README.md</b>: Documentação do projeto em formato markdown.
 
-## 🔧 Como executar o código
-
-Este projeto não possui conteúdos para serem executados.
-
 ## 🗃 Histórico de lançamentos
 
 * 1.0.0 - 13/11/2024
