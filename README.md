@@ -59,7 +59,9 @@ Figura 1 - Inicialização do teste
 
 Figura 2 - Teste demonstrando o funcionamento correto do sensor HC-SR04 iluminando o LED à esquerda de quem lê, e os resultados de temperatura, umidade, distância e movimento printados no monitor.
 
-![Image3](https://github.com/RM559712/fase3_cap12/blob/main/assets/images/image3.png)  
+![Image3](https://github.com/RM559712/fase3_cap12/blob/main/assets/images/image3.png)
+
+O projeto pode ser visualizado e testado no seguinte endereço da plataforma Wokwi: https://wokwi.com/projects/413740186126852097.
 
 ## 📁 Estrutura de pastas
 
